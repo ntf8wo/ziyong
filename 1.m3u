@@ -118,25 +118,25 @@ http://line.premiumpowers.net/play/live.php?
 http://175.43.106.30:4022/rtp/239.61.2.70:8414
 #EXTINF:-1 group-title="联通线路",金鹰卡通
 http://221.7.175.154:8445/tsfile/live/1016_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="电信线路",CCTV-1
+#EXTINF:-1 group-title="电信线路",CCTV1
 http://61.148.223.18:8888/newlive/live/hls/2/live.m3u8
-#EXTINF:-1 group-title="电信线路",CCTV-2
+#EXTINF:-1 group-title="电信线路",CCTV2
 http://61.148.223.18:8888/newlive/live/hls/3/live.m3u8
-#EXTINF:-1 group-title="电信线路",CCTV-3
+#EXTINF:-1 group-title="电信线路",CCTV3
 http://61.148.223.18:8888/newlive/live/hls/4/live.m3u8
-#EXTINF:-1 group-title="电信线路",CCTV-4
+#EXTINF:-1 group-title="电信线路",CCTV4
 http://61.148.223.18:8888/newlive/live/hls/5/live.m3u8
-#EXTINF:-1 group-title="电信线路",CCTV-5
+#EXTINF:-1 group-title="电信线路",CCTV5
 http://61.148.223.18:8888/newlive/live/hls/6/live.m3u8
 #EXTINF:-1 group-title="电信线路",CCTV5＋
 http://61.148.223.18:8888/newlive/live/hls/18/live.m3u8
-#EXTINF:-1 group-title="电信线路",CCTV-6
+#EXTINF:-1 group-title="电信线路",CCTV6
 http://61.148.223.18:8888/newlive/live/hls/7/live.m3u8
-#EXTINF:-1 group-title="电信线路",CCTV-7
+#EXTINF:-1 group-title="电信线路",CCTV7
 http://61.148.223.18:8888/newlive/live/hls/8/live.m3u8
-#EXTINF:-1 group-title="电信线路",CCTV-8
+#EXTINF:-1 group-title="电信线路",CCTV8
 http://61.148.223.18:8888/newlive/live/hls/9/live.m3u8
-#EXTINF:-1 group-title="电信线路",CCTV-9
+#EXTINF:-1 group-title="电信线路",CCTV9
 http://61.148.223.18:8888/newlive/live/hls/10/live.m3u8
 #EXTINF:-1 group-title="电信线路",CCTV-10
 http://61.148.223.18:8888/newlive/live/hls/11/live.m3u8
